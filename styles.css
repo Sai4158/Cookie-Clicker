@@ -11,19 +11,20 @@ body {
 }
 
 .img {
-  height: 300vw;
+  height: 20vw;
   border-radius: 100%;
   box-shadow: black 0px 0px 20000px 0px;
 }
 
 p {
   font-size: 3.5vw;
-  font-family: cursive;
+  padding: auto;
   letter-spacing: 0.2vw;
   font-weight: bold;
   text-transform: uppercase;
   -webkit-text-stroke-width: 0.15vw;
   -webkit-text-stroke-color: rgb(255, 255, 255);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .leftbutton1 {
