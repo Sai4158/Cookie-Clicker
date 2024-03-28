@@ -1,0 +1,51 @@
+body {
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  background: linear-gradient(
+    45deg,
+    rgb(11, 82, 139) 0%,
+    rgb(29, 29, 130) 18%,
+    rgb(7, 97, 116) 100%
+  );
+}
+
+.img {
+  height: 300vw;
+  border-radius: 100%;
+  box-shadow: black 0px 0px 20000px 0px;
+}
+
+p {
+  font-size: 3.5vw;
+  font-family: cursive;
+  letter-spacing: 0.2vw;
+  font-weight: bold;
+  text-transform: uppercase;
+  -webkit-text-stroke-width: 0.15vw;
+  -webkit-text-stroke-color: rgb(255, 255, 255);
+}
+
+.leftbutton1 {
+  width: 35vw;
+  height: 5vw;
+  font-size: 2.5vw;
+  border-radius: 2.5vw;
+  background-color: rgb(68, 108, 63);
+  -webkit-text-stroke-width: 0.15vw;
+  -webkit-text-stroke-color: rgb(17, 17, 17);
+}
+
+.leftbutton {
+  padding-bottom: 2.5vw;
+}
+
+.rightbutton1 {
+  width: 35vw;
+  height: 5vw;
+  font-size: 2.5vw;
+  border-radius: 2.5vw;
+  background-color: rgb(178, 68, 68);
+  -webkit-text-stroke-width: 0.15vw;
+  -webkit-text-stroke-color: rgb(34, 34, 34);
+}
